@@ -1,0 +1,15 @@
+.NewList form textarea {
+    height: 300px;
+    font-size: 1.5rem;
+}
+
+
+.NewList .drag_drop_area {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.drag_drop_area .column {
+    width: 30%;
+}
